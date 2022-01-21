@@ -1,2 +1,1 @@
-# Shopify-Website
-Nasa's photo of the day
+# Nasas photo of the day
